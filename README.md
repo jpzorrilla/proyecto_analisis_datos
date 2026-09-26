@@ -91,10 +91,6 @@ Cuatro horas distribuidas en dos sesiones.
 
 ## Uso de Inteligencia Artificial
 
-Durante el desarrollo de este proyecto se utilizaron herramientas de
-Inteligencia Artificial como apoyo para la generación, revisión y mejora de
-código y documentación.
+Durante el desarrollo de este proyecto se utilizaron herramientas de Inteligencia Artificial como apoyo para la generación, revisión y mejora de código y documentación.
 
-El código fue revisado, adaptado y ejecutado por el autor. La selección de
-los métodos de análisis, la interpretación de los resultados y las
-conclusiones son responsabilidad del autor.
+El código fue revisado, adaptado y ejecutado por el autor. La selección de los métodos de análisis, la interpretación de los resultados y las conclusiones son responsabilidad del autor.
